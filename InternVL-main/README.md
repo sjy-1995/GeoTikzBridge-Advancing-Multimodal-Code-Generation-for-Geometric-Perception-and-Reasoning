@@ -27,8 +27,13 @@ Modify the dataset path in the two json files in
 Modify the model path and output path in `./internvl_chat/shell/internvl2.0/2nd_finetune/internvl2_8b_internlm2_7b_dynamic_res_2nd_finetune_full.sh`
 
 ### Model & Dataset 🤗
-[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/sjy-1995/GeoTikzBridge)
-[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/sjy-1995/GeoCode-10K)
+Pretrained Models:
+  - FigCodifier-8B: [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/sjy-1995/GeoTikzBridge)
+  - InternVL3.5-38B-Instruct: [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/sjy-1995/GeoTikzBridge)
+
+Training Datasets:
+  - GeoTikz-Base dataset (about 2.5M): [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/sjy-1995/GeoCode-10K)
+  - GeoTikz-Instruct dataset (about 419k): [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/sjy-1995/GeoCode-10K)
 
 ### 2.3 Run
 ```bash
