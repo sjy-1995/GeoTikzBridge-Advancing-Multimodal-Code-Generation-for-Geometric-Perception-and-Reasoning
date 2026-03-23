@@ -26,6 +26,10 @@ Modify the dataset path in the two json files in
 `./internvl_chat/shell/data/`  
 Modify the model path and output path in `./internvl_chat/shell/internvl2.0/2nd_finetune/internvl2_8b_internlm2_7b_dynamic_res_2nd_finetune_full.sh`
 
+### Model & Dataset 🤗
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/sjy-1995/GeoTikzBridge)
+[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/sjy-1995/GeoCode-10K)
+
 ### 2.3 Run
 ```bash
 cd ./internvl_chat/shell/internvl2.0/2nd_finetune/
