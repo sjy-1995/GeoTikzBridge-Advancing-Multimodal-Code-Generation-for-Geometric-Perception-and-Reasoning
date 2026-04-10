@@ -36,9 +36,9 @@ Training Datasets:
   - GeoTikz-Instruct dataset (about 419k): [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/SJY-1995/GeoTikz-Instruct)https://huggingface.co/datasets/SJY-1995/GeoTikz-Instruct
 
 Trained Models:
-  - GeoTikzBridge-Base model (8B): [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/models/SJY-1995/GeoTikzBridge-Base-8B)https://huggingface.co/models/SJY-1995/GeoTikzBridge-Base-8B
-  - GeoTikzBridge-Base model (38B): [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/models/SJY-1995/GeoTikzBridge-Base-38B)https://huggingface.co/models/SJY-1995/GeoTikzBridge-Base-38B
-  - GeoTikzBridge-Instruct model (8B): [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/models/SJY-1995/GeoTikzBridge-Instruct)https://huggingface.co/models/SJY-1995/GeoTikzBridge-Instruct
+  - GeoTikzBridge-Base model (8B): [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/SJY-1995/GeoTikzBridge-Base-8B)https://huggingface.co/SJY-1995/GeoTikzBridge-Base-8B
+  - GeoTikzBridge-Base model (38B): [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/SJY-1995/GeoTikzBridge-Base-38B)https://huggingface.co/SJY-1995/GeoTikzBridge-Base-38B
+  - GeoTikzBridge-Instruct model (8B): [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/SJY-1995/GeoTikzBridge-Instruct-8B)https://huggingface.co/SJY-1995/GeoTikzBridge-Instruct-8B
 
 ### 2.3 Run
 ```bash
